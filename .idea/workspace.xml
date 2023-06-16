@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="870dc9ba-ed98-4d04-905a-b299e8e7f486" name="Changes" comment="Added">
-      <change afterPath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Wolf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_8_serious_polymorphism/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_8_serious_polymorphism/MyAnimalList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_8_serious_polymorphism/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_9_life_and_death_of_an_object/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_9_life_and_death_of_an_object/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_7/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_7/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_7/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_7/Wolf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_7_better_living_in_objectville/Wolf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -48,7 +49,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/suraj/IdeaProjects/HeadFirstJava/src",
     "onboarding.tips.debug.path": "C:/Users/suraj/IdeaProjects/HeadFirstJava/src/Main.java",
-    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -117,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686469155264</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added">
+      <created>1686671868806</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1686671868806</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
