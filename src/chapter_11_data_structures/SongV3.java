@@ -25,12 +25,23 @@ public class SongV3 implements Comparable<SongV3>{
 
     @Override
     public String toString() {
-        return  title;
+        return  title + " " + artist;
     }
 
     @Override
     public int compareTo(SongV3 o) {
        return title.compareTo(o.toString());
+    }
+
+    @Override
+    public int hashCode() {
+        return title.hashCode();
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        SongV3 other = (SongV3) obj;
+        return title.equals(other.title);
     }
 }
 
