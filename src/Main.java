@@ -6,11 +6,7 @@ import java.util.ArrayList;
 
 public class Main{
     public static void main(String[] args) {
-        ArrayList<Animal> animals = new ArrayList<>();
-        animals.add(new Dog());
-        animals.add(new Wolf());
 
-        giveShot(animals);
     }
 
     // <T extends Animal> means we can use any arraylist that is animal or a subclass of a animal
@@ -24,4 +20,5 @@ public class Main{
         for (Animal animal : list)
             animal.makeNoise();
     }
+
 }
