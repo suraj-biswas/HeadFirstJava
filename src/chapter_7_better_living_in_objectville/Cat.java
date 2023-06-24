@@ -1,8 +1,11 @@
 package chapter_7_better_living_in_objectville;
 
 public class Cat extends Animal{
+    public Cat() {
+
+    }
     public Cat(String theName) {
-        super(theName);
+
     }
 
     @Override

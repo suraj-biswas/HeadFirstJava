@@ -7,9 +7,9 @@ public class Dog extends Animal implements Pet {
 
     }
     public Dog(String name) {
-        // calling the superclass constructor otherwise we can't apply the method getName() in dog
         super(name);
     }
+
     @Override
     public void makeNoise() {
         System.out.println("Woof!!Woof!!");

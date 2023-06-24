@@ -1,6 +1,6 @@
 package chapter_11_data_structures;
 
-public class SongV3 implements Comparable<SongV3>{
+public class SongV3 {
     private String title;
     private String artist;
     private int bpm;
@@ -25,13 +25,10 @@ public class SongV3 implements Comparable<SongV3>{
 
     @Override
     public String toString() {
-        return  title + " " + artist;
+//        return  title + " " + artist;
+        return title;
     }
 
-    @Override
-    public int compareTo(SongV3 o) {
-       return title.compareTo(o.toString());
-    }
 
     @Override
     public int hashCode() {

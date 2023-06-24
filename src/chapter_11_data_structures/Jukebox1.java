@@ -14,7 +14,7 @@ public class Jukebox1 {
         List<SongV3> songList = MockSongs.getSongsV3();
 
         // If an interface has only one method that needs to implemented , we don't need to make another class
-        // rather we can use lamda expression
+        // rather we can use lambda expression
         songList.sort((one, two) -> one.getArtist().compareTo(two.getArtist()));
         System.out.println(songList);
 
