@@ -1,3 +1,5 @@
+package chapter_11_data_structures;
+
 import chapter_11_data_structures.SongV3;
 import chapter_7_better_living_in_objectville.Animal;
 import chapter_7_better_living_in_objectville.Cat;
@@ -10,7 +12,6 @@ public class Main{
     public static void main(String[] args) {
 //        List<Animal> animals = List.of(new Dog(), new Cat("mui"), new Wolf());
         List<Dog> dogs = List.of(new Dog(), new Dog());
-        takeAnimals(dogs);
     }
 
     public static void takeAnimals(List<? extends Animal> animals) {
