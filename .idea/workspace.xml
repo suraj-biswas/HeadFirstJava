@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="870dc9ba-ed98-4d04-905a-b299e8e7f486" name="Changes" comment="Added">
-      <change afterPath="$PROJECT_DIR$/src/chapter_12_lamdas_and_streams/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_12_lamdas_and_streams/JukeBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_12_lamdas_and_streams/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_12_lamdas_and_streams/Songs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/chapter_12_lamdas_and_streams/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_11_data_structures/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_11_data_structures/JukeBox3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_11_data_structures/JukeBox3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/chapter_11_data_structures/SongV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_11_data_structures/SongV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/chapter_12_lamdas_and_streams/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/chapter_12_lamdas_and_streams/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +36,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/suraj/IdeaProjects/HeadFirstJava",
-    "onboarding.tips.debug.path": "C:/Users/suraj/IdeaProjects/HeadFirstJava/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/suraj/IdeaProjects/HeadFirstJava&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/suraj/IdeaProjects/HeadFirstJava/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="chapter_5_extra_strength_methods" />
@@ -169,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1687584099542</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added">
+      <option name="closed" value="true" />
+      <created>1688188065981</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688188065981</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
